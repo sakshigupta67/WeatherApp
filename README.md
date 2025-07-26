@@ -12,7 +12,7 @@ A modern, responsive weather application delivering real-time updates with a cle
 - **API**: OpenWeatherMap
 
 ## Demo
-[Live Website](#) <!-- Replace # with your deployed link -->
+[Live Website](https://weather-app-beta-gules-93.vercel.app/)
 
 ## Installation
 1. Clone the repository:
