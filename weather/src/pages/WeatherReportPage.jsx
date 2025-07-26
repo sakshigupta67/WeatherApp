@@ -63,7 +63,7 @@ const WeatherReportPage = () => {
       <WeatherBackground condition={getWeatherCondition()} />
       {/* Home Icon Button */}
       <button
-        className="fixed top-6 left-6 z-20 text-emerald-900 hover:text-emerald-700 transition-colors duration-200"
+        className="fixed sm:top-6 sm:left-6 top-16 left-6 z-20 text-emerald-900 hover:text-emerald-700 transition-colors duration-200"
         onClick={() => navigate('/')}
         aria-label="Go to Home"
       >
